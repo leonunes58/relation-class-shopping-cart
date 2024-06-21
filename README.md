@@ -4,7 +4,7 @@ This application has as objetive to exercise the relations of class. In it, I cr
 
 ## Features
 
-- **Created user with name, email, password encrypted and bith date.
+- **Create user with name, email, password encrypted and bith date.
 - **Is possible add items at sales car, with quantity and value.
 
 ## Prerequisites
